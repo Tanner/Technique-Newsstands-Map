@@ -1,0 +1,291 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.404, 33.779]
+      },
+      "properties": {
+        "Building": "West Campus Housing Office",
+        "Location": "Aisle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.403, 33.775]
+      },
+      "properties": {
+        "Building": "Campus Recreation Center",
+        "Location": "Entry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.391, 33.777]
+      },
+      "properties": {
+        "Building": "Instructional Center",
+        "Location": "Outside Room 103"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.401, 33.776]
+      },
+      "properties": {
+        "Building": "Instructional Center",
+        "Location": "Outside Room 103 by Stairs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.401, 33.776]
+      },
+      "properties": {
+        "Building": "Instructional Center",
+        "Location": "Outside Room 117 by Spiral Stairs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.402, 33.777]
+      },
+      "properties": {
+        "Building": "Love",
+        "Location": "Main Lobby by Material Sciences and Engineering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.398, 33.778]
+      },
+      "properties": {
+        "Building": "Howey",
+        "Location": "Front Lobby by Lecture Hall #4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.398, 33.777]
+      },
+      "properties": {
+        "Building": "Howey",
+        "Location": "Front Lobby by Lecture Hall #4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.398, 33.777]
+      },
+      "properties": {
+        "Building": "College of Computing",
+        "Location": "In Front of Advisors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.397, 33.779]
+      },
+      "properties": {
+        "Building": "Petit Bio",
+        "Location": "Entrance by Administrative Offices"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.397, 33.779]
+      },
+      "properties": {
+        "Building": "Whitaker",
+        "Location": "Entrance by Wallace Tribute"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.396, 33.779]
+      },
+      "properties": {
+        "Building": "Ford",
+        "Location": "Entrance by Gossage Atrium Dedication"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.396, 33.777]
+      },
+      "properties": {
+        "Building": "Klaus",
+        "Location": "Entrance by Glass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.396, 33.777]
+      },
+      "properties": {
+        "Building": "Klaus",
+        "Location": "Entrance by Stairs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.399, 33.774]
+      },
+      "properties": {
+        "Building": "Flag",
+        "Location": "In Front by Housing Office"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.396, 33.775]
+      },
+      "properties": {
+        "Building": "Van Leer",
+        "Location": "Entrance by Atlantic Drive"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.396, 33.776]
+      },
+      "properties": {
+        "Building": "Architecture West",
+        "Location": "Entrance by Architecture East"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.397, 33.775]
+      },
+      "properties": {
+        "Building": "CULC",
+        "Location": "North Entrance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.397, 33.774]
+      },
+      "properties": {
+        "Building": "CULC",
+        "Location": "South Entrance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.396, 33.774]
+      },
+      "properties": {
+        "Building": "Library",
+        "Location": "Main Atrium (East Side)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.396, 33.774]
+      },
+      "properties": {
+        "Building": "Library",
+        "Location": "Main Atrium (South Side)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.396, 33.774]
+      },
+      "properties": {
+        "Building": "Library",
+        "Location": "Main Atrium (West Side)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.396, 33.774]
+      },
+      "properties": {
+        "Building": "D.M. Smith",
+        "Location": "Main Entrance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.395, 33.773]
+      },
+      "properties": {
+        "Building": "Highland",
+        "Location": "North Entrance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.392, 33.773]
+      },
+      "properties": {
+        "Building": "Brittain",
+        "Location": "Front Entrance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.392, 33.774]
+      },
+      "properties": {
+        "Building": "Bobby Dodd",
+        "Location": "North-East Entrance"
+      }
+    }
+  ]
+}
