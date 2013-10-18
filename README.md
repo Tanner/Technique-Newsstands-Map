@@ -1,6 +1,6 @@
 Technique Newsstands Map
 ==============
-Locations of all the student accessible printers at Georgia Tech.
+Locations of all the Technique newsstands at Georgia Tech.
 
 Want to contribute?
 ===================
