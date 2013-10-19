@@ -5,7 +5,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.404, 33.779]
+        "coordinates": [-84.404053, 33.778703]
       },
       "properties": {
         "Building": "West Campus Housing Office",
@@ -16,7 +16,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.403, 33.775]
+        "coordinates": [-84.403192, 33.775428]
       },
       "properties": {
         "Building": "Campus Recreation Center",
@@ -27,7 +27,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.391, 33.777]
+        "coordinates": [-84.390633, 33.776603]
       },
       "properties": {
         "Building": "Instructional Center",
@@ -38,7 +38,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.401, 33.776]
+        "coordinates": [-84.401328, 33.775547]
       },
       "properties": {
         "Building": "Instructional Center",
@@ -49,7 +49,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.401, 33.776]
+        "coordinates": [-84.401383, 33.775561]
       },
       "properties": {
         "Building": "Instructional Center",
@@ -60,7 +60,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.402, 33.777]
+        "coordinates": [-84.401764, 33.776561]
       },
       "properties": {
         "Building": "Love",
@@ -71,7 +71,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.398, 33.778]
+        "coordinates": [-84.398497, 33.777564]
       },
       "properties": {
         "Building": "Howey",
@@ -82,7 +82,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.398, 33.777]
+        "coordinates": [-84.397881, 33.777456]
       },
       "properties": {
         "Building": "Howey",
@@ -93,7 +93,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.398, 33.777]
+        "coordinates": [-84.397531, 33.777347]
       },
       "properties": {
         "Building": "College of Computing",
@@ -104,7 +104,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.397, 33.779]
+        "coordinates": [-84.397172, 33.778594]
       },
       "properties": {
         "Building": "Petit Bio",
@@ -115,7 +115,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.397, 33.779]
+        "coordinates": [-84.396972, 33.778642]
       },
       "properties": {
         "Building": "Whitaker",
@@ -126,7 +126,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.396, 33.779]
+        "coordinates": [-84.396194, 33.778919]
       },
       "properties": {
         "Building": "Ford",
@@ -137,7 +137,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.396, 33.777]
+        "coordinates": [-84.396142, 33.776742]
       },
       "properties": {
         "Building": "Klaus",
@@ -148,7 +148,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.396, 33.777]
+        "coordinates": [-84.396172, 33.776744]
       },
       "properties": {
         "Building": "Klaus",
@@ -159,7 +159,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.399, 33.774]
+        "coordinates": [-84.399222, 33.774353]
       },
       "properties": {
         "Building": "Flag",
@@ -170,7 +170,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.396, 33.775]
+        "coordinates": [-84.395639, 33.774628]
       },
       "properties": {
         "Building": "Van Leer",
@@ -181,7 +181,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.396, 33.776]
+        "coordinates": [-84.396028, 33.776097]
       },
       "properties": {
         "Building": "Architecture West",
@@ -192,7 +192,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.397, 33.775]
+        "coordinates": [-84.396636, 33.775222]
       },
       "properties": {
         "Building": "CULC",
@@ -203,7 +203,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.397, 33.774]
+        "coordinates": [-84.396789, 33.774281]
       },
       "properties": {
         "Building": "CULC",
@@ -214,7 +214,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.396, 33.774]
+        "coordinates": [-84.395814, 33.773717]
       },
       "properties": {
         "Building": "Library",
@@ -225,7 +225,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.396, 33.774]
+        "coordinates": [-84.395608, 33.774114]
       },
       "properties": {
         "Building": "Library",
@@ -236,7 +236,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.396, 33.774]
+        "coordinates": [-84.395569, 33.774192]
       },
       "properties": {
         "Building": "Library",
@@ -247,7 +247,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.396, 33.774]
+        "coordinates": [-84.395844, 33.773767]
       },
       "properties": {
         "Building": "D.M. Smith",
@@ -258,7 +258,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.395, 33.773]
+        "coordinates": [-84.394614, 33.772767]
       },
       "properties": {
         "Building": "Highland",
@@ -269,7 +269,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.392, 33.773]
+        "coordinates": [-84.391844, 33.772519]
       },
       "properties": {
         "Building": "Brittain",
@@ -280,7 +280,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.392, 33.774]
+        "coordinates": [-84.392053, 33.773828]
       },
       "properties": {
         "Building": "Bobby Dodd",
